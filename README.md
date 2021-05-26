@@ -12,3 +12,5 @@ This is a simple navigation with multiple goals for rb1-base mobile robot with e
 4.2)rosrun simple_navigation_goals simple_navigation_goals
 
 (goals were chosen with rostopic echo /rb1_base/amcl_pose)
+
+Video link:https://www.youtube.com/watch?v=L7w9998tg9I
